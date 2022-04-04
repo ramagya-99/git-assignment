@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hii :) My name is Ram Agya Gupta and I live at near MMMUT.
+=======
+Hii :) My name is Ram Agya Gupta and I live in Gorakhpur near MMMUT.
+>>>>>>> 3cd1d91b035c4c57b06fe84d500b028d9d109d4e
